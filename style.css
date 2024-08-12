@@ -1,0 +1,53 @@
+.userContainer {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+  }
+
+  .userNum {
+    width: 200px;
+    padding: 10px;
+    color: red;
+  }
+  
+  .userAge {
+    padding: 10px;
+    width: 200px;
+    color: red;
+  }
+
+button {
+    width: 100px;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: red;
+}
+
+  .userCard {
+    margin-top: 100px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 20px;
+    width: 200px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    background-color: #f9f9f9;
+  }
+  
+  .userCard1 {
+    margin-top: 50px;
+    border: 2px solid #413e3e;
+    border-radius: 10px;
+    padding: 20px;
+    width: 200px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+
+  .userCard h3 {
+    margin: 0 0 10px 0;
+    font-size: 18px;
+  }
+  
+  .userCard p {
+    margin: 0;
+  }
+  
